@@ -15,13 +15,9 @@ A modular batch script framework to repair networks, optimize memory, clear cach
 
 ## 📦 How to Use
 
-1. Download all `.bat` files and place them in the **same folder**:
-   - `Master_Launcher.bat`
-   - `Preflight_Check.bat`
-   - `Network_Suite.bat`
-   - `System_Suite.bat`
+1. Download the zip file and **export it**
 
-2. Run `Master_Launcher.bat` (it will automatically request Admin rights if needed)
+2. Run `Master_Launcher.bat` (it will automatically request Admin rights)
 
 3. Choose your option from the menu:
    - **1:** Run Preflight System Check (diagnostics only)
